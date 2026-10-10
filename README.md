@@ -8,8 +8,8 @@ REST API sederhana untuk layanan **pencatatan peminjaman buku perpustakaan**, di
 
 | | URL |
 |---|---|
-| **Base URL (Vercel)** | `https://GANTI-DENGAN-URL-VERCEL.vercel.app` |
-| Contoh filter | `https://GANTI-DENGAN-URL-VERCEL.vercel.app/loans?status=Terlambat` |
+| **Base URL (Vercel)** | https://praktikum-ppb-modul-1-rx5g.vercel.app |
+| Contoh filter | https://praktikum-ppb-modul-1-rx5g.vercel.app/loans?status=Terlambat |
 
 ---
 
